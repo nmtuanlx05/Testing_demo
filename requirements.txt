@@ -1,0 +1,7 @@
+selenium
+requests
+urllib3
+pyautogui
+pytest
+pytest-html
+webdriver_manager
